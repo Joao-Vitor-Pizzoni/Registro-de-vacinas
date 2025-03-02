@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1652038878 source:c:\users\redzz\onedrive\Área de trabalho\trabalho de programação\plihaestatica.c
+	"PilhaEstatica.h"
+	<string.h>
+
+1652040326 c:\users\redzz\onedrive\Área de trabalho\trabalho de programação\pilhaestatica.h
+
+1652039566 source:c:\users\redzz\onedrive\Área de trabalho\trabalho de programação\filaestatica.c
+	"FilaEstatica.h"
+	<string.h>
+
+1652040326 c:\users\redzz\onedrive\Área de trabalho\trabalho de programação\filaestatica.h
+
+1652040507 source:c:\users\redzz\onedrive\Área de trabalho\trabalho de programação\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"PilhaEstatica.h"
+	"FilaEstatica.h"
+
+1652037614 source:c:\users\redzz\onedrive\Área de trabalho\trabalho de programação\filadinamica.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"FilaDinamica.h"
+
+1652037101 c:\users\redzz\onedrive\Área de trabalho\trabalho de programação\filadinamica.h
+
+1652035942 c:\users\redzz\onedrive\Área de trabalho\trabalho de programação\pilhadinamica.h
+
+1652037614 source:c:\users\redzz\onedrive\Área de trabalho\trabalho de programação\pilhadinamica.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"PilhaDinamica.h"
+
